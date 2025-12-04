@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FullStackJavaCourse.iml" filepath="$PROJECT_DIR$/FullStackJavaCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOOPS_Statements/LOOPS_Statements.iml" filepath="$PROJECT_DIR$/LOOPS_Statements/LOOPS_Statements.iml" />
     </modules>
   </component>
 </project>
