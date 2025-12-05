@@ -23,7 +23,7 @@ public class Loops_13 {
 			num = num / 10;
 		}
 
-		System.out.println(temp);
+//		System.out.println(temp);
 		
 		if(temp == originalNum) {
 			System.out.println("This is Armstrong number");
