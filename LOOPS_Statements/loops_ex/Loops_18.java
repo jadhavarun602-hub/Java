@@ -15,6 +15,7 @@ public class Loops_18 {
 		
 		if(num <= 1) {
 		
+			System.out.println(num + " is not a Prime Number");
 			return;
 			}
 		
@@ -34,10 +35,10 @@ public class Loops_18 {
 		
 		if(isPrime)
 		{
-			System.out.println(num + " Is a prime Number");
+			System.out.println(num + " is a prime Number");
 		}else 
 		{
-			System.out.println(num + " Is a not Prime Number");
+			System.out.println(num + " is not a Prime Number");
 		}
 		
 	}
