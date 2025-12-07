@@ -16,10 +16,10 @@ public class Loops_20 {
 		
 		int fact = 1;
 		
-		if(num < 1) {
-			System.out.println("Please enter less than 1 number...");
-			return;
-		}
+		if(num < 0) {
+            System.out.println("Factorial is not defined for negative numbers.");
+            return;
+        }
 		
 		for(int i = 1; i <= num; i++) {
 			
