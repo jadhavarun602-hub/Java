@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="IF_ELSE_Statements"/>
 	<classpathentry kind="src" path="LOOPS_Statements"/>
+	<classpathentry kind="src" path="Methods"/>
 	<classpathentry kind="output" path="out/production/FullStackJavaCourse"/>
 </classpath>
