@@ -27,7 +27,7 @@ public class Method_21 {
     	
     	int find = findFrequency(text,ch);
     	
-    	System.out.println("Frequency of '" + ch + "': " + find);
+    	System.out.println("The Frequency of '" + ch + "': " + find);
 
     }
 }
