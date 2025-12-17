@@ -1,4 +1,4 @@
-package Set_examples;
+package set_examples;
 
 import java.util.ArrayList;
 import java.util.Collections;
