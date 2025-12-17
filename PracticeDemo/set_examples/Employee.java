@@ -37,10 +37,6 @@ public class Employee implements Comparable<Employee> {
 			System.out.println(n.name+" : "+n.salary);
 		}
 		
-		
-		
-		
-
 	}
 
 }
