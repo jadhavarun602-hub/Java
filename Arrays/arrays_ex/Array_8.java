@@ -11,7 +11,7 @@ public class Array_8 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Enter a Size : ");
+		System.out.print("Enter a Size: ");
 		int size = sc.nextInt();
 		
 		int [] arr = new int [size];
