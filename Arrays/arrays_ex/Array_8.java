@@ -26,11 +26,8 @@ public class Array_8 {
 		
 		for(int i = 0; i < arr.length; i++) {
 			if(arr[i] % 2 == 0) {
-				System.out.println(arr[i]);
-				EvenCount++;
-				
+				EvenCount++;	
 			}else {
-				System.out.println(arr[i]);
 				OddCount++;
 			}
 		}
