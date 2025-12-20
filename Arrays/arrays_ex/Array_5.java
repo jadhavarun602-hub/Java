@@ -6,7 +6,7 @@ public class Array_5 {
 
 	public static void main(String[] args) {
 		
-		int [] ele = {12,54,87,45,23,11,45,5};
+		int [] ele = {12,51,87,45,23,11,45,5};
 		
 		int larg = ele[0];
 		
