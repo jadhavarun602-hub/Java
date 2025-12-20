@@ -6,7 +6,7 @@ public class Array_3 {
 
 	public static void main(String[] args) {
 		
-		int [] element = {12,54,77,90,45,32,87,30,12};
+		int [] element = {12,53,77,90,45,32,87,30,12};
 		
 		int sum = 0;
 		
