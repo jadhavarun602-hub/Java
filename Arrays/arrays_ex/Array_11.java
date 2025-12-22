@@ -6,7 +6,7 @@ public class Array_11 {
 
 	public static void main(String[] args) {
 		
-		int [] num = {34,56,88,99,13,56,78,54};
+		int [] num = {34,56,88,44,99,13,56,78,54};
 		
 		int start = 0;
 		int end = num.length-1;
