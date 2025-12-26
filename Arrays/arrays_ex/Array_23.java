@@ -8,8 +8,8 @@ public class Array_23 {
 		
 		 int n = arr.length + 1;
 
-	        int totalSum = n * (n + 1) / 2;
-	        int arraySum = 0;
+	     int totalSum = n * (n + 1) / 2;
+	     int arraySum = 0;
 
 	        for (int num : arr) {
 	            arraySum += num;
