@@ -18,6 +18,7 @@ public class PrintFirst1 {
 		list.add(1011);
 		list.add(7761);
 		list.add(9999);
+		list.add(null);
 		list.add(6679);
 		list.add(1143);
 		list.add(143);
