@@ -21,7 +21,7 @@ public class Array_23 {
 
 	public static void main(String[] args) {
 		
-		int [] array = {1,2,3,4,6,7,8,9};
+		int [] array = {1,2,3,4,5,7,8,9};
 		
 		findMissingNum(array);
 
