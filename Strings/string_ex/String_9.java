@@ -33,7 +33,7 @@ public class String_9 {
 
 	public static void main(String[] args) {
 
-		String str = "Arun Bhibhishan Jadhav";
+		String str = "Arun Bhibhishan Jadhav ";
 
 		countVowelsConsonants(str);
 	}
