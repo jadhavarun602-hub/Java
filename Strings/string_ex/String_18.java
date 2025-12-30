@@ -2,7 +2,7 @@ package string_ex;
 
 // Find the shortest word in a sentence.
 
-public class String_Q18 {
+public class String_18 {
 
 	public static void main(String[] args) {
 		
