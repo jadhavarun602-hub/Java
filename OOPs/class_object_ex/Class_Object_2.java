@@ -1,6 +1,6 @@
 package class_object_ex;
 
-// Create a class with two variables and print them using an object.
+// Create a class with three variables and print them using an object.
 
 class Car {
 	String Color;
