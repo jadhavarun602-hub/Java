@@ -1,0 +1,1 @@
+package class_object_ex;

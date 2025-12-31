@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Arrays"/>
 	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="src" path="Recursions"/>
+	<classpathentry kind="src" path="OOPs"/>
 	<classpathentry kind="output" path="out/production/FullStackJavaCourse"/>
 </classpath>
