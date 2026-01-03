@@ -21,7 +21,7 @@ class Student_1 {
 	}
 }
 
-public class Class_Object_3 {
+public class Constructors_3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
