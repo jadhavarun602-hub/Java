@@ -4,9 +4,6 @@ package constructors_ex;
 
 class Student {
 	
-	String name;
-	int roll;
-	
 	Student(String name, int roll){
 		System.out.println("Name: "+name);
 		System.out.println("Roll: "+roll);
