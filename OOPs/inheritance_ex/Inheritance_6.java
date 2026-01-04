@@ -21,7 +21,7 @@ class Dharashiv extends IPS {
 	
     public void info() {
         display();
-        System.out.println("I am Dharashiv IPS police");
+        System.out.println("I am Dharashiv IPS police..");
     }
 }
 
