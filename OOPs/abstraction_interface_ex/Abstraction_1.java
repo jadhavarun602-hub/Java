@@ -1,4 +1,4 @@
-package abstraction_interface;
+package abstraction_interface_ex;
 
 //Create an abstract class.
 
@@ -34,8 +34,8 @@ public class Abstraction_1 {
 		Animal a = new Dog();
 		
 		
-		System.out.println("Animal name is: "+a.name());
-		System.out.println(a.name()+"'s food is: "+a.food());
+		System.out.println("Animal Name is: "+a.name());
+		System.out.println(a.name()+"'s Food is: "+a.food());
 
 		
 	}
