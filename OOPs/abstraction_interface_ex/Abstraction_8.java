@@ -26,14 +26,14 @@ class Royal implements Bike {
 
 	@Override
 	public void info() {
-		System.out.println("Bike details....");
+		System.out.println("Bike details...");
 		
 	}
 	
 	
 }
 
-public class Abstract_8 {
+public class Abstraction_8 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
