@@ -10,12 +10,12 @@ public class ArrayList_13 {
 		
 		ArrayList<Integer> num = new ArrayList<>();
 		
-//		num.add(65);
-//		num.add(23);
-//		num.add(98);
-//		num.add(34);
-//		num.add(11);
-//		
+		num.add(65);
+		num.add(23);
+		num.add(98);
+		num.add(34);
+		num.add(11);
+		
 		System.out.println("Num's: "+num);
 		
 		if(num.isEmpty()) {
