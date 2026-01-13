@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="Recursions"/>
 	<classpathentry kind="src" path="OOPs"/>
 	<classpathentry kind="src" path="CollectionFramework"/>
+	<classpathentry kind="src" path="StreamAPI"/>
 	<classpathentry kind="output" path="out/production/FullStackJavaCourse"/>
 </classpath>
