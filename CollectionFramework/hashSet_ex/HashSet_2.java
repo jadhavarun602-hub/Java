@@ -1,7 +1,6 @@
 package hashSet_ex;
 
 import java.util.HashSet;
-import java.util.Set;
 
 // Create a HashSet<String> and display all elements.
 
@@ -9,7 +8,7 @@ public class HashSet_2 {
 
 	public static void main(String[] args) {
 		
-		Set<String> str = new HashSet<>();
+		HashSet<String> str = new HashSet<>();
 		
 		str.add("abc");
 		str.add("pqr");
