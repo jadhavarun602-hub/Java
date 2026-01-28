@@ -4,7 +4,7 @@ import java.util.function.Predicate;
 
 // Create two Predicate<Integer> and combine them using or().
 
-public class Prdicate_9 {
+public class Predicate_9 {
 
 	public static void main(String[] args) {
 		
