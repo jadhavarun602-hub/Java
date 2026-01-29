@@ -48,7 +48,7 @@ public class NewClass {
 		
 		cs.setAccessible(true);
 		
-		Employee emp = (Employee) cs.newInstance("Arun",567889);
+		Employee emp = (Employee) cs.newInstance("Arun Jadhav",567889);
 		
 		System.out.println(emp.name+" : "+emp.salary);
 		
