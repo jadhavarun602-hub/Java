@@ -7,7 +7,7 @@ class Speed extends Thread{
 			
 			try {
 				
-				Thread.sleep(1500);
+				Thread.sleep(1000);
 				
 			} catch (Exception e) {
 				
@@ -29,7 +29,7 @@ public class Car {
 		
 		for(int i = 1; i < 10; i++) {
 			
-			Thread.sleep(1500);
+			Thread.sleep(1000);
 			System.out.println("BMW");
 		}
 		
