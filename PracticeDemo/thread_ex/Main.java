@@ -4,7 +4,7 @@ class NewThread extends Thread{
 	
 	public void run() {
 		for(int i = 1; i<=100; i++) {
-			System.out.println("Running NewThread class....");
+			System.out.println("Running NewThread class...");
 		}
 	}
 }
@@ -17,7 +17,7 @@ public class Main {
 		nt.start();
 		
 		for(int i = 1; i<=100;i++) {
-			System.out.println("Running Main class....");
+			System.out.println("Running Main class...");
 		}
 
 	}
