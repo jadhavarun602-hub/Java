@@ -26,7 +26,7 @@ public class Raise_Con {
 }
 class Counter {
 	
-	int count = 1 ;
+	int count = 0;
 	
 	public void increase() {
 		count++;
