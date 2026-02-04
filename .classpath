@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="CollectionFramework"/>
 	<classpathentry kind="src" path="StreamAPI"/>
 	<classpathentry kind="src" path="Threads"/>
+	<classpathentry kind="src" path="Reflection_api"/>
 	<classpathentry kind="output" path="out/production/FullStackJavaCourse"/>
 </classpath>
