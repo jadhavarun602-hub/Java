@@ -17,6 +17,8 @@ public class JDBC_1 {
 //		System.out.println(con);
 		
 		System.out.println("mysql connector...");
+		
+		con.close();
 
 	}
 
