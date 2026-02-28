@@ -7,11 +7,13 @@ class Movie{
 	String movie;
 	int release;
 	String title;
+	int time;
 	
 	public void show() {
 		System.out.println(movie);
 		System.out.println(release);
 		System.out.println(title);
+		System.out.println(time);
 	}
 }
 
