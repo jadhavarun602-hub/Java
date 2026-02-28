@@ -8,7 +8,7 @@ class Temp1{
 	int age = 22;
 	
 	public void info() {
-		System.out.println("My name is "+name+" and my age is "+age);
+		System.out.println("My name is "+name+" and My age is "+age);
 	}
 }
 
