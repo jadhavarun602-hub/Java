@@ -1,6 +1,6 @@
 package constructors_ex;
 
-// c
+// Create constructor with multiple arguments.
 
 class Bike{
 	String bikename;
