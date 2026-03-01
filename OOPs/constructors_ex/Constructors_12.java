@@ -31,7 +31,7 @@ class Cars{
 //		System.out.println("Model: "+model);
 //		System.out.println("Power: "+power);
 //		System.out.println("Price: "+price);
-//		System.out.println("---------------------------");
+//		System.out.println("--------------------------");
 	}
 }
 
