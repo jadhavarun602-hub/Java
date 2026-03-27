@@ -1,10 +1,7 @@
-/arrayList_ex/
 /consumer_ex/
 /executor_framework/
 /function_ex/
-/hashSet_ex/
 /jdbc_api/
-/linkedHashSet_ex/
 /linkedList_ex/
 /predicate_ex/
 /reflection_ex/
@@ -14,4 +11,4 @@
 /thread/
 /treeSet_ex/
 /vector_stack_ex/
-/examples/
+/constructors_ex/
